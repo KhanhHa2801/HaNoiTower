@@ -1,0 +1,8 @@
+<html><strong> <font color='white'>Di chuyển tháp đó sang cọc cuối cùng (từ vị trí 1 sang 3), theo các quy tắc: <br>
+	1. lần chỉ chuyển được 1 đĩa. <br>
+	2. Chỉ đĩa lớn hơn mới chấp nhận cái nhỏ hơn xếp chồng lên. <br>
+	3. Quá trình chồng và chuyển đĩa không yêu cầu tính liền kề (vị trí khoảng cách, hay đường kính). <br>
+	4. Đánh giá hoàn hảo mỗi màn chơi căn cứ vào số lần chuyển đĩa tối ưu. <br> 
+	Và Game Over khi bạn di chuyển quá số bước quy định. <br>
+	5. Sử dụng các phím mũi tên ↑, ↓, ←, → hoặc phím W, S, A, D trên bàn phím 
+	để di chuyển các đĩa tương ứng lên, xuống, sang trái, sang phải.</font></strong></html>
